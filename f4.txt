@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 1900+verano+f+f4
+=======
+1900+invierno+f+f4
+>>>>>>> 1900+invierno+f
+Ultima modificacion del examen
